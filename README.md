@@ -70,5 +70,3 @@ python main.py
 
 todo:
 - [ ] make grid search make. this make robust noise_pipeline. (Only random make be unstable?)
- # function_based_for_tango
-# function_based_for_tango
