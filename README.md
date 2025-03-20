@@ -11,7 +11,7 @@ conda activate function_based
 
 ```bash
 cd function_based
-python main.py
+python function_based_noise_generator.py
 ```
 
 
