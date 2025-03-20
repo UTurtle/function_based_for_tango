@@ -1,4 +1,4 @@
-# Function based for tango
+# Function based noise pipeline for Tango
 
 ### Environment Setup 
 
